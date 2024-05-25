@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/jyothi-swaroop-achanta-b0b7b1213/**
 
-- ⚡ Fun fact **I came from NON-IT background and honed my software skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
