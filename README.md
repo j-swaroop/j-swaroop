@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jyothi Swaroop</h1>
+<h1 align="center">Hi 👋, I'm Swaroop</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
 - 🔭 I recently developed a [Full-stack Blog](https://blog-app-sand-eight.vercel.app/)
